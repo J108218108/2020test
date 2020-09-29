@@ -14,4 +14,4 @@ _This text will be italic_
 
 __This text will be italic__
 
-*You **can ** combine them*
+*You **can** combine them*
