@@ -28,8 +28,15 @@ __This text will be italic__
    * Item 3a
    * Item 3b
 
-![NKUST logo](logo.png)
+![NKUST logo](school.png)
 
 <https://elearning.nkust.edu.tw/mooc/index.php>
 
 [NKUST](https://elearning.nkust.edu.tw/mooc/index.php)
+
+
+As Kayne West said:
+> We're living the future so
+> the present is our past.
+
+
