@@ -28,4 +28,5 @@ __This text will be italic__
    * Item 3a
    * Item 3b
 
+![NKUST logo](logo.png)
 
