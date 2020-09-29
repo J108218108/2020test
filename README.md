@@ -61,4 +61,34 @@ console.log("Look ma', no spaces");
 
 ```
 
+## `Markdown`
+```markdown
+* Item 1
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Ttem 2b
+  
+  
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+`````
+
+|First |Second | Third |
+|:----- |:-----:|------:|
+|cell 1 |  cell 2 |   number cell3|
+|cell 1 |  cell 2 |   number cell3|
+|cell 1 |  cell 2 |   number cell3|
+
+
+
+:+1:
+
+:smile:
+
+:sparkles:
 
