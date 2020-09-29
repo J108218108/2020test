@@ -40,3 +40,8 @@ As Kayne West said:
 > the present is our past.
 
 
+\*literal asterisks\*
+
+\(literal asterisks\)
+
+\{literal asterisks\}
