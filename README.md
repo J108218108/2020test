@@ -31,11 +31,14 @@ __This text will be italic__
    * Item 3a
    * Item 3b
 
-![NKUST logo](school.png)
+![NKUST logo](logo.png "高科大")
+ 
+ <img src="https://github.com/wenh123/2020test/blob/master/logo.png" alt="Your image title" width="250"/>
+ 
+ ![](https://i.imgur.com/9cgQVqD.png )
 
-<https://elearning.nkust.edu.tw/mooc/index.php>
+<img src="https://i.imgur.com/9cgQVqD.png" alt="IMGUR LOGO" width="250"/>
 
-[NKUST](https://elearning.nkust.edu.tw/mooc/index.php)
 
 
 As Kayne West said:
